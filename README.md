@@ -1,5 +1,5 @@
 # SpendingAnalyzer
-Creating this project for training batch to pratice python scripting &amp; github
+Creating this project for training batch to pratice python scripting & github
 
 
 Added team mebers to the project
