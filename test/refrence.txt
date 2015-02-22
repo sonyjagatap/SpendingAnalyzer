@@ -1,0 +1,3 @@
+this is my new text doc
+print "helllo"...Shoba
+Hello all .....sony
